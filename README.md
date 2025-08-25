@@ -40,7 +40,7 @@ Currently exploring **Cloud Computing**, **Machine Learning & AI**, and working 
 ## 📊 GitHub Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tatiana-omolleh&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-omolleh&layout=compact&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatiana-omolleh&layout=compact&theme=tokyonight&count_private=false)
 
 
 
